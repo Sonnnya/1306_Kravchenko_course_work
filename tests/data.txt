@@ -1,0 +1,7 @@
+the 
+abcd
+there 
+123456789 123456789
+the apple the orange
+an apple an orange
+    the       fox
